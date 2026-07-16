@@ -372,13 +372,13 @@ int exam::piscine_menu(void)
                   << WHITE << BOLD << "    |  Piscine PART  |" << std::endl;
         std::cout << std::endl
                   << LIME << "            1" << RESET << WHITE << BOLD << std::endl
-                  << "       EXAM WEEK 01" << std::endl;
+                  << "       EXAM WEEK 00" << std::endl;
         std::cout << std::endl
                   << LIME << "            2" << RESET << WHITE << BOLD << std::endl
-                  << "       EXAM WEEK 02" << std::endl;
+                  << "       EXAM WEEK 01" << std::endl;
         std::cout << std::endl
                   << LIME << "            3" << RESET << WHITE << BOLD << std::endl
-                  << "       EXAM WEEK 03" << std::endl;
+                  << "       EXAM WEEK 02" << std::endl;
         std::cout << RESET << BOLD << std::endl
                   << "     \\ ------------ /" << std::endl
                   << std::endl
